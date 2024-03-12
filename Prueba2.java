@@ -1,0 +1,3 @@
+// Autor/a: Sergio Martin 
+public class Prueba2 {
+}
